@@ -18,6 +18,20 @@ The skill compiles each request into a sparse vertical paper poster with:
 
 It avoids commercial advertising layouts, glossy mockups, cinematic lighting, 3D rendering, neon, dense scrapbooks, and long clean text blocks.
 
+## Examples
+
+| Night Door | Yellow Step |
+| --- | --- |
+| ![Night Door](examples/night-door.jpeg) | ![Yellow Step](examples/yellow-step.jpeg) |
+
+| Shore Pause | Pause Map |
+| --- | --- |
+| ![Shore Pause](examples/shore-pause.jpeg) | ![Pause Map](examples/pause-map.jpeg) |
+
+| Typhoon Memory | Moon Tide |
+| --- | --- |
+| ![Typhoon Memory](examples/typhoon-memory.jpeg) | ![Moon Tide](examples/moon-tide.jpeg) |
+
 ## Installation
 
 Clone the public repository directly into the Codex skills directory:
@@ -54,6 +68,7 @@ The workflow uses Standard Mode and generates the image by default. It only stop
 - `SKILL.md`: the complete Codex skill instructions
 - `README.md`: public overview and installation instructions
 - `LICENSE`: MIT license
+- `examples/`: selected generated posters
 
 This repository publishes one standalone skill. A separate private vault may aggregate backups of multiple local skills, but private backup automation and unrelated skills are intentionally excluded here.
 
