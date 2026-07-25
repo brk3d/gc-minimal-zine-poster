@@ -1,5 +1,8 @@
 # GC Minimal Zine Poster
 
+**English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
+
+
 A Codex skill for turning a theme, sentence, object, mood, article idea, photo, or content brief into a quiet minimal zine-style editorial poster prompt and a generated raster image.
 
 The callable skill name is `gc-minimal-zine-poster-v0-1`.
